@@ -1,8 +1,3 @@
-'''
-Created on Mar 30, 2021
-
-@author: martinyanev
-'''
 
 import os 
 import cfg
